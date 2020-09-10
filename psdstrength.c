@@ -1,5 +1,6 @@
 //program to find the strength of a password where passwordstrength=3 means strongest 
-//By: Ankit shrestha
+//By= Ankit shrestha
+//date:10 september
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
